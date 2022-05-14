@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and learning about coding
 - 🌱 I’m currently learning Java + DSA
 - 💞️ I’m looking to collaborate on beginner friendly Open source projects
-- 📫 How to reach me: MAil me at nruprawal2002@gmail.com or DM me on Instagram @nrup_rawal
+- 📫 How to reach me: Mail me at nruprawal2002@gmail.com or DM me on Instagram @nrup_rawal
 
 <!---
 nrup-rawal/nrup-rawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
